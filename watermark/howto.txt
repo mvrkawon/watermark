@@ -1,0 +1,4 @@
+# Jak edytować skrypt ???
+
+- Logo
+wchodzisz watermark\client\html i w logo podmieniasz plik
